@@ -60,10 +60,3 @@ This project is a survey website utilizing the Gemini API. Follow the instructio
 
 Once the app is running, you can access it in your web browser at `http://localhost:8501`.
 
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
